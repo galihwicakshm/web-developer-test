@@ -60,7 +60,11 @@
         <a href="forgot-password.html">I forgot my password</a>
       </p>
       <p class="mb-0">
+<<<<<<< HEAD
         <a href="{{ url('register') }}" class="text-center">Register a new membership</a>
+=======
+        <a href="{{ url('register)}}" class="text-center">Register a new membership</a>
+>>>>>>> efe9504107a26063b94ae5469fc5365a8fe50d7c
       </p>
     </div>
     <!-- /.card-body -->
