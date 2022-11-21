@@ -1,0 +1,5 @@
+@include('componen.header')
+@include('componen.navbar')
+@include('componen.sidebar')
+@yield('content')
+@include('componen.footer')
